@@ -1,6 +1,6 @@
 # GoodPix - Photography Fundraising Platform
 
-A comprehensive, production-ready fundraising platform that connects photographers with meaningful causes, featuring complete database integration, real-time updates, and secure payment processing through Stripe.
+A comprehensive fundraising platform that connects photographers with meaningful causes, featuring complete database integration, real-time updates, and secure payment processing through Stripe.
 
 ## Features
 
